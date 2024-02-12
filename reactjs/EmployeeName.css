@@ -1,0 +1,32 @@
+.container {
+    width: 300px;
+    background-color: #333;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #444;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.date {
+    font-size: 14px;
+}
+
+.empname {
+    font-weight: bold;
+}
+
+.yoe {
+    background-color: #8a2be2;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
